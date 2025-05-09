@@ -1,0 +1,12 @@
+# The basic libraries
+streamlit
+matplotlib
+# Some additional libraries
+pywaffle
+# Theming and styling libraries
+pypalettes
+# Data processing libraries
+pandas
+# For the fonts
+highlight_text
+pyfonts
